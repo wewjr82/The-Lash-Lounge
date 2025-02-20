@@ -1,7 +1,7 @@
 <h1>The Lash Lounge</h1>
 <p>The Lash Lounge is a modern and stylish website designed for a lash technician business. It provides an elegant online presence for booking services and showcasing work.</p>
 
-Link to project: <a href="(https://lashlounge.netlify.app/)">
+<p>Link to project: <a href="https://lashlounge.netlify.app/">The Lash Lounge</a></p>
 
 
 ![screencapture-lashlounge-netlify-app-2025-02-19-19_23_32](https://github.com/user-attachments/assets/938dbfc5-3cca-4b90-a13a-a660dac54558)
