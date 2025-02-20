@@ -1,8 +1,11 @@
 <h1>The Lash Lounge</h1>
 <p>The Lash Lounge is a modern and stylish website designed for a lash technician business. It provides an elegant online presence for booking services and showcasing work.</p>
 
-Link to project: (https://lashlounge.netlify.app/)
-![buzz](https://github.com/wewjr82/)
+Link to project: <a href="(https://lashlounge.netlify.app/)">
+
+
+![screencapture-lashlounge-netlify-app-2025-02-19-19_23_32](https://github.com/user-attachments/assets/938dbfc5-3cca-4b90-a13a-a660dac54558)
+
 
 <h2>How It's Made:</h2>
 <p>The project leverages React's component-based architecture and Tailwind’s utility classes to create a sleek, highly customizable user experience.</p>
